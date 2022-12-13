@@ -29,6 +29,9 @@ windows, Macs e Linux:
 <Clique Em "scr":>
 ```
 ```
+<Depois em "defaultpackage">
+```
+```
 E Pronto :D
 ```
 
