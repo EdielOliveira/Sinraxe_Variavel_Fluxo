@@ -26,7 +26,7 @@ windows, Macs e Linux:
 <Abra "Sintaxe_Variavel_Fluxos">
 ```
 ```
-<Clique Em "scr":>
+<Clique Em "src":>
 ```
 ```
 <Depois em "defaultpackage">
