@@ -11,7 +11,7 @@ public class TestaCondicional {
 			System.out.println("seja bem vindo");
 		} else {
 			if (quantidadePessoas >= 2) {
-				System.out.println("voce nao tem 18 mas pode entrar, pois vesta acompanhado");
+				System.out.println("voce nao tem 18 mas pode entrar, pois esta acompanhado");
 			} else {
 				System.out.println("Infelismente voce nao pode entrar");
 			}
