@@ -10,4 +10,3 @@ public class TestaValores {
 		System.out.println(segundo);
 	}
 }
-
